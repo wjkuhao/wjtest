@@ -8,4 +8,7 @@ public class TestGit {
         System.out.println("hello git");
         System.out.println("hello git");
     }
+    public void add(){
+        System.out.println("冲突");
+    }
 }
