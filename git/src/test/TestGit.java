@@ -10,6 +10,6 @@ public class TestGit {
 		System.out.println("1111");
     }
     public void add(){
-        System.out.println("冲突");
+        System.out.println("冲突2");
     }
 }
